@@ -1,10 +1,13 @@
 Geschäftsproblem
+
 Ziel ist es, ein maschinelles Lernmodell zu entwickeln, das anhand der Spezifikation der Merkmale vorhersagen kann, ob Menschen an Diabetes leiden oder nicht. Vor der Entwicklung des Modells müssen die erforderlichen Datenanalyse- und Feature-Engineering-Schritte durchgeführt werden. (Szenario)
 
 Datensatzgeschichte
+
 Der Datensatz ist Teil eines großen Datensatzes, der an den National Institutes of Diabetes-Digestive-Nidney Diseases in den USA gespeichert wird. Dabei handelt es sich um die Daten, die für die Diabetesforschung bei Frauen verwendet werden, bestehend aus Pima-Indianerinnen im Alter von 21 Jahren und älter, die in Phoenix, der fünftgrößten Stadt des US-Bundesstaates Arizona, leben. Die Zielvariable wird als „Outcome“ angegeben; 1 bedeutet ein positives Diabetes-Testergebnis, 0 bedeutet negativ.
 
 Variables
+
 Pregnancies: Anzahl der Schwangerschaften
 Glucose: 2-Stunden-Plasmaglukosekonzentration im oralen Glukosetoleranztest
 BloodPressure: Blutdruck (Diasodruck) (mm Hg)

@@ -9,28 +9,45 @@ Der Datensatz ist Teil eines großen Datensatzes, der an den National Institutes
 Variables
 
 Pregnancies: Anzahl der Schwangerschaften
+
 Glucose: 2-Stunden-Plasmaglukosekonzentration im oralen Glukosetoleranztest
+
 BloodPressure: Blutdruck (Diasodruck) (mm Hg)
+
 SkinThickness: Hautdicke
+
 Insulin: 2-Stunden-Seruminsulin (mu U/ml)
+
 DiabetesPedigreeFunction: Eine Funktion, die die Wahrscheinlichkeit, an Diabetes zu erkranken, anhand der Abstammung der Personen berechnet
+
 BMI: Body Mass Index
+
 Age: Alter
+
 Outcome: An der Krankheit leiden (1) oder nicht (0)
 
 Inhaltsverzeichnis
 
 1. Datenvorverarbeitung
+   
 Bibliotheken importieren
+
 Einlesen eines Datensatzes
+
 Explorative Datenanalyse
 
 3. Feature-Engineering
+   
 Ausreißeranalyse (Outliers Analysis)
+
 Die Analyse fehlender Werte(Missing Values Analysis)
+
 Erstellen neuer Funktionsinteraktionen
 
 3. Modellierung
+   
 Verarbeitung Kodierung & One-Hot-Kodierung
+
 Standardisierung für numerische Variablen
+
 Auswahl des besten Modells

@@ -36,7 +36,7 @@ Einlesen eines Datensatzes
 
 Explorative Datenanalyse
 
-3. Feature-Engineering
+2. Feature-Engineering
    
 Ausreißeranalyse (Outliers Analysis)
 
